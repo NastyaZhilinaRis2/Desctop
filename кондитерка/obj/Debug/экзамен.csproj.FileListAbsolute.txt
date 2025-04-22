@@ -1,0 +1,16 @@
+C:\Users\Настя\source\repos\экзамен\bin\Debug\экзамен.exe.config
+C:\Users\Настя\source\repos\экзамен\bin\Debug\экзамен.exe
+C:\Users\Настя\source\repos\экзамен\bin\Debug\экзамен.pdb
+C:\Users\Настя\source\repos\экзамен\obj\Debug\экзамен.csproj.AssemblyReference.cache
+C:\Users\Настя\source\repos\экзамен\obj\Debug\экзамен.Properties.Resources.resources
+C:\Users\Настя\source\repos\экзамен\obj\Debug\экзамен.csproj.GenerateResource.cache
+C:\Users\Настя\source\repos\экзамен\obj\Debug\экзамен.csproj.CoreCompileInputs.cache
+C:\Users\Настя\source\repos\экзамен\obj\Debug\экзамен.exe
+C:\Users\Настя\source\repos\экзамен\obj\Debug\экзамен.pdb
+C:\Users\Настя\source\repos\экзамен\obj\Debug\экзамен.Выбор_товара.resources
+C:\Users\Настя\source\repos\экзамен\obj\Debug\экзамен.Модификаторы_круассаны.resources
+C:\Users\Настя\source\repos\экзамен\obj\Debug\экзамен.Модификаторы_пироги.resources
+C:\Users\Настя\source\repos\экзамен\obj\Debug\экзамен.Модификаторы_пирожные.resources
+C:\Users\Настя\source\repos\экзамен\obj\Debug\экзамен.Модификаторы_булочки.resources
+C:\Users\Настя\source\repos\экзамен\obj\Debug\экзамен.Модификаторы_эклеры.resources
+C:\Users\Настя\source\repos\экзамен\obj\Debug\экзамен.Модификаторы_печенья.resources

@@ -1,0 +1,10 @@
+C:\Users\Настя\source\repos\Приветствие\bin\Release\Приветствие.exe.config
+C:\Users\Настя\source\repos\Приветствие\bin\Release\Приветствие.exe
+C:\Users\Настя\source\repos\Приветствие\bin\Release\Приветствие.pdb
+C:\Users\Настя\source\repos\Приветствие\obj\Release\Приветствие.Form1.resources
+C:\Users\Настя\source\repos\Приветствие\obj\Release\Приветствие.Properties.Resources.resources
+C:\Users\Настя\source\repos\Приветствие\obj\Release\Приветствие.csproj.GenerateResource.cache
+C:\Users\Настя\source\repos\Приветствие\obj\Release\Приветствие.csproj.CoreCompileInputs.cache
+C:\Users\Настя\source\repos\Приветствие\obj\Release\Приветствие.exe
+C:\Users\Настя\source\repos\Приветствие\obj\Release\Приветствие.pdb
+C:\Users\Настя\source\repos\Приветствие\obj\Release\Приветствие.csproj.AssemblyReference.cache

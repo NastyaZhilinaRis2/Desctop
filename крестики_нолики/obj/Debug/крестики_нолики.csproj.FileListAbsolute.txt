@@ -1,0 +1,10 @@
+C:\Users\Настя\source\repos\крестики_нолики\bin\Debug\крестики_нолики.exe.config
+C:\Users\Настя\source\repos\крестики_нолики\bin\Debug\крестики_нолики.exe
+C:\Users\Настя\source\repos\крестики_нолики\bin\Debug\крестики_нолики.pdb
+C:\Users\Настя\source\repos\крестики_нолики\obj\Debug\крестики_нолики.csproj.AssemblyReference.cache
+C:\Users\Настя\source\repos\крестики_нолики\obj\Debug\крестики_нолики.Form1.resources
+C:\Users\Настя\source\repos\крестики_нолики\obj\Debug\крестики_нолики.Properties.Resources.resources
+C:\Users\Настя\source\repos\крестики_нолики\obj\Debug\крестики_нолики.csproj.GenerateResource.cache
+C:\Users\Настя\source\repos\крестики_нолики\obj\Debug\крестики_нолики.csproj.CoreCompileInputs.cache
+C:\Users\Настя\source\repos\крестики_нолики\obj\Debug\крестики_нолики.exe
+C:\Users\Настя\source\repos\крестики_нолики\obj\Debug\крестики_нолики.pdb
